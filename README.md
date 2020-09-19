@@ -15,7 +15,7 @@ DreamTune is a company founded in the Music Copyright industry and is dedicated 
 You can view our production [application hosted here](https://dreamtune-cdf8a.web.app/auth/login). 
 
 ## Pitch Deck 
-[Pitch deck hosted here](./DreamTune/CSC454_ Final Pitch.pdf)
+[Pitch deck](https://drive.google.com/file/d/1Wbz_FDDKTtcKv7nEGxSch6jucVOUv0dn/view?usp=sharing)
 
 ## How our Team Works
 We are using issues as the main way to delegate tasks. We are also using the projects tabs and milestones to help organize this information. Communication will happen mainly over our private slack channel. Some of our internal documents will be hosted on Google Drive, but as needed we will convert them to markdown and upload to GitHub. 
